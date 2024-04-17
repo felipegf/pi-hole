@@ -1,0 +1,15 @@
+advertising-api-eu.amazon.com
+events.hotjar.io
+gtm.mouseflow.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+freshmarketer.com
+fwtracks.freshmarketer.com
+realtime.luckyorange.com
+pixel.facebook.com
+an.facebook.com
+static.ads-twitter.com
+adtech.yahooinc.com
+metrics2.data.hicloud.com
+grs.hicloud.com
+samsung-com.112.2o7.net
